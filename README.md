@@ -1,5 +1,7 @@
 # Secure User Authentication with Bcrypt and HMAC-Peppered Hashing
 
+Project summary: https://www.linkedin.com/in/mj-yuan-786678324/details/projects/
+
 This project demonstrates a secure way to store and verify user passwords in a SQLite database using Python. It leverages the following security mechanisms:
 
 - **bcrypt**: A password hashing function designed for secure password storage.
