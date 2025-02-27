@@ -14,7 +14,6 @@ PEPPER = os.getenv('SECRET_PEPPER', 'default_secure_pepper_value').encode()
 # Database setup
 DB_FILE = "users.db"
 
-
 def create_database():
     """Initialize the SQLite database and users table."""
     conn = sqlite3.connect(DB_FILE)
